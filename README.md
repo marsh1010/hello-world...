@@ -1,2 +1,6 @@
-# hello-world...
-this is my first project
+#incude <stdio.h>
+int main()
+{
+printf("hello world");
+return 0;
+}
